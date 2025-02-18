@@ -4,6 +4,6 @@
         left: 50%;
         width: 200px;
         height: 2px;
-        background-color: black;
+        background-color: rgb(0,0,0);
         transform-origin: center;
     }
